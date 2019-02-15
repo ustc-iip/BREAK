@@ -8,11 +8,11 @@ This repository contains the codes and test problems for the project "Behavior R
 
 [3]	Mang Wang, Bin Li, Guofu Zhang and Xin Yao, Population Evolvability: Dynamic Fitness Landscape Analysis for Population-based Metaheuristic Algorithms, IEEE Transactions on Evolutionary Computation, Vol. 22, No. 4, August 2018, p550-563. 
 
-Some open resources authored by other colleagues are used in our works:
+Some open resources authored by other colleagues are used in our works, original copyrights belong to their authors:
 
-*DeepLearnToolboxGPU Toolbox is based on the DeepLearnToolbox by Rasmus Berg Palm (https://github.com/rasmusbergpalm/DeepLearnToolbox)
+*DeepLearnToolboxGPU Toolbox is developed based on the DeepLearnToolbox by Rasmus Berg Palm (https://github.com/rasmusbergpalm/DeepLearnToolbox)
 
 *sfa-tk 1.0.1 is a Matlab implementation of the slow feature analysis algorithm (SFA). sfa-tk can be found at  http://itb.biologie.hu-berlin.de/~berkes/software/sfa-tk/sfa-tk.shtml
 
-*DeeBNet is modified of deep belief networks toolbox from http://ceit.aut.ac.ir/~keyvanrad/DeeBNet%20Toolbox.html
+*DeeBNet is a modified version of deep belief networks toolbox from http://ceit.aut.ac.ir/~keyvanrad/DeeBNet%20Toolbox.html
 
