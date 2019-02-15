@@ -1,0 +1,1 @@
+void benchmark_func(double *f, double *x, int func_num, int NP, int D);

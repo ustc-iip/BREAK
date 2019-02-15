@@ -1,0 +1,40 @@
+***************
+SFA-TK 1.0.1
+***************
+
+sfa-tk 1.0.1 is a Matlab implementation of the slow feature
+analysis algorithm (SFA).
+
+Download
+--------
+
+sfa-tk can be found at 
+http://itb.biologie.hu-berlin.de/~berkes/software/sfa-tk/sfa-tk.shtml
+
+Installation
+------------
+
+To install sfa-tk, simply unpack the file sfa_tk101.tar.gz into your
+favorite Matlab directory. This is going to create a 'sfa_tk'
+directory. The two subdirectories 'sfa_tk/lcov' and 'sfa_tk/sfa' have
+to be added to the Matlab path variable 'MATLABPATH'. The subdirectory
+'sfa_tk/demo' contains some demo functions, which you might want to
+run to make sure that everything is installed in the right way.
+
+Contact
+-------
+
+If you find a bug or have any kind of feedback please contact me at
+p.berkes@biologie.hu-berlin.de  .
+
+Directory tree
+--------------
+
+README this file
+
+lcov/  contains a sublibrary to iteratively update Large COVariance
+       matrices.
+
+sfa/   contains the main SFA library.
+
+demo/  contains four demo scripts (see demo/README for details).
