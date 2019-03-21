@@ -8,7 +8,7 @@ This repository contains the codes and test problems for the project "Behavior R
 
 [3]	Mang Wang, Bin Li, Guofu Zhang and Xin Yao, Population Evolvability: Dynamic Fitness Landscape Analysis for Population-based Metaheuristic Algorithms, IEEE Transactions on Evolutionary Computation, Vol. 22, No. 4, August 2018, p550-563. 
 
-Some open resources authored by other colleagues are used in our works, original copyrights belong to their authors:
+Some open resources authored by other colleagues have been used in our works, original copyrights belong to their authors:
 
 *DeepLearnToolboxGPU Toolbox is developed based on the DeepLearnToolbox by Rasmus Berg Palm (https://github.com/rasmusbergpalm/DeepLearnToolbox)
 
